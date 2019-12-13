@@ -16,6 +16,13 @@ body {
   margin: 0;
 }
 
+section {
+  padding: .5em 0;
+  display: block;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
 h2 {
   line-height: 1.5;
   text-align: left;
@@ -29,10 +36,10 @@ h2 {
 div {
   position: relative;
   display: inline-block;
-  vertical-align: middle;
   padding: 1em;
-  min-width: 500px;
+  min-width: 300px;
   max-width: 25em;
+  vertical-align: middle;
 }
 
 .paragraph {
@@ -74,13 +81,13 @@ p {
 .picture a {
   margin-bottom: 1.5rem;
   display: inline-block;
-  background-color: #eee9de;
   padding: .75em;
+  border-radius: 10px;
+  font-family: sans-serif;
   border-style: solid;
   color: #333;
   border-color: #333;
-  font-family: sans-serif;
-  border-radius: 10px;
+  background-color: #eee9de;
   outline-offset: 2px;
   text-align: center;
   list-style-type: none;

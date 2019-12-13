@@ -33,11 +33,6 @@ div {
   padding: 1em;
   min-width: 25em;
   max-width: 25em;
-
-}
-
-.paragraph {
-  text-align: left;
 }
 
 .paragraph {
@@ -80,7 +75,7 @@ p {
   margin-bottom: 1.5rem;
   display: inline-block;
   background-color: #eee9de;
-  padding: .75em
+  padding: .75em;
   border-style: solid;
   color: #333;
   border-color: #333;

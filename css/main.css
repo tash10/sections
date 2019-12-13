@@ -25,3 +25,74 @@ h2 {
   font-family: lato, sans-serif;
   margin: 0;
 }
+
+div {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1em;
+  min-width: 25em;
+  max-width: 25em;
+
+}
+
+.paragraph {
+  text-align: left;
+}
+
+.paragraph {
+  text-align: left;
+}
+
+.picture img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+p {
+  padding: .5em 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: .5em 1em;
+  text-align: center;
+  border-radius: 8px;
+  color: #333;
+  text-decoration: none;
+  border: 3px solid #000;
+  background-color: #eee9de;
+}
+
+.btn:hover {
+  background-color: #666;
+  color: #fff;
+}
+
+.paragraph nav {
+  font-size: 1em;
+  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.picture a {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  background-color: #eee9de;
+  padding: .75em
+  border-style: solid;
+  color: #333;
+  border-color: #333;
+  font-family: sans-serif;
+  border-radius: 10px;
+  outline-offset: 2px;
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  display: block;
+}

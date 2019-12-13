@@ -31,7 +31,7 @@ div {
   display: inline-block;
   vertical-align: middle;
   padding: 1em;
-  min-width: 25em;
+  min-width: 500px;
   max-width: 25em;
 }
 
